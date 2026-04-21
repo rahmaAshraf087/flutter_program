@@ -1,16 +1,41 @@
-# flutter_program
+# Flutter First App
 
-A new Flutter project.
+A simple Flutter project built as the first implementation during an intensive Flutter course.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- Two screens app:
+    - **Program Screen**: displays course/program details like number of sessions, duration (weeks), and covered topics.
+    - **Mini Store Screen**: shows a basic list of products with names and prices.
+- Simple navigation between screens.
 
-A few resources to get you started if this is your first Flutter project:
+## 🧭 Screens
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- `flutter_program.dart`: Program details screen.
+- `mini_store.dart`: Simple product listing screen.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔄 Navigation
+
+A button on the Program screen navigates to the Mini Store screen.
+
+## 🛠 Tech Stack
+
+- Flutter
+- Dart
+
+## 🎯 Purpose
+
+This project was created as a beginner-level Flutter exercise to practice:
+- Multi-screen apps
+- Basic UI layout
+- Navigation between screens
+
+
+## 📸 Screenshots
+
+### Program Screen
+![Program Screen](assets/flutter_program.jpg)
+
+### Mini Store Screen
+![Mini Store Screen](assets/mini_store.jpg)
+---
